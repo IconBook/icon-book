@@ -13,4 +13,3 @@ The following open source projects are used in this application.
 - Electron
 - AngularJS 1.4
 - Bootstrap 3
-- [ui.bootstrap.contextMenu](https://github.com/Templarian/ui.bootstrap.contextMenu)
